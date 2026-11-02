@@ -7,7 +7,7 @@
 ## Проекты
 
 | Проект | Задача бизнеса | Инструменты | Что посмотреть |
-
+|---|---|---|---|
 | **[01. Аналитика заказов маркетплейса](01_marketplace_sql/README.md)** | Выручка, прибыль, ABC-анализ, повторные клиенты, когорты | SQL (CTE, JOIN, оконные функции), SQLite / PostgreSQL-совместимые запросы | [SQL-запросы](01_marketplace_sql/sql), [таблицы с результатами](01_marketplace_sql/results) |
 | **[02. Анализ продаж на Python](02_sales_python/README.md)** | Динамика продаж, прибыльность, категории и проблемные зоны | Python, pandas, matplotlib | [Код](02_sales_python/analyze_sales.py), [отчёт](02_sales_python/report.md) |
 | **[03. A/B-тест регистрации](03_ab_test/README.md)** | Проверить, повысило ли изменение конверсию в завершение регистрации | Python, статистика, доверительный интервал, z-тест | [Код](03_ab_test/analyze_experiment.py), [результаты](03_ab_test/report.md) |
