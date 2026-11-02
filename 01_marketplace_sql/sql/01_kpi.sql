@@ -9,4 +9,3 @@ SELECT
     ROUND(AVG(quantity * price_rub), 2) AS avg_order_value_rub
 FROM orders
 WHERE order_status = 'delivered';
-
